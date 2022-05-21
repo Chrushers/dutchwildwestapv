@@ -169,8 +169,7 @@ hiernaast bestraft volgens beoordeling van een stafflid.
 je verwondingen en deze logisch inschat. Ook dien je mee te werken met de roleplay en mag je de
 dokter niet forceren om spelers te reviven. Doktoren hebben te allen tijde het recht om je dood te
 verklaren als je door verwondingen en/of situatie dood zou moeten zijn.
-5. Het is verboden om te copbaiten. Dit houdt in agenten uit te lokken op reactie zonder dat er
-daadwerkelijk iets aan de hand is.
+5. Het is verboden om te copbaiten. Dit houdt in dat je een reactie van deputies & sheriffs gaat uitlokken zonder dat er daadwerkelijk iets aan de hand is.
 6. Het is verboden om valse meldingen te maken. (/alertpolice, /alertdoctor & /alertranger)<br>
 ^ Dit wordt bestraft met een straf van de 2e CAT.
 
@@ -207,7 +206,7 @@ materiaal ook voor onze eigen doeleinden te mogen gebruiken en kan het voorkomen
 beeldmateriaal aan te leveren.
 6. Dutch Wild West behoudt zich het recht tot het eisen van verwijdering binnen 24 uur van video,
 audio of beeldmateriaal in welke vorm dan ook bij content dat imago schade kan opleveren.
-7. Regels kunnen ten alle tijden aangepast worden.
+7. Regels kunnen te allen tijde aangepast worden.
 8. Gebruiker gaat akkoord met alle bovenstaande bepalingen en rechten zodra deze gebruik maakt van
 onze services (Server en Discord).
 
