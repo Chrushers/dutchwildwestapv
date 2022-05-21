@@ -12,4 +12,6 @@ Eén van onze primaire doelen met Dutch Wild West was om NIEUWE verhalen, NIEUWE
 Als jij een bestaande persoonlijkheid/personage hier brengt: geniet ervan, maar doe er alles aan om ze te betrekken bij nieuwe verhalen en nieuwe relaties.<br>
 <br>
 Ze kunnen zeker hun geschiedenis hebben, hun geheugen, hun relaties uit het verleden, maar we vragen je nederig dat je het meeste van wat er met hen is 'gebeurd' achter je laat!<br>
-</font>
+
+
+Adam C.</font>
