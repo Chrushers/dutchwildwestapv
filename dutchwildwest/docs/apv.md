@@ -134,7 +134,7 @@ Echter met de goede RP iemand iets laten vergeten zien we wel graag!<br>
 1. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
 2. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke
 manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
-3. Men moet de onderhandeling aan gaan, dit betekent niet dat je tot een compromi hoeft te komen.
+3. Men moet de onderhandeling aan gaan, dit betekent niet dat je tot een compromis hoeft te komen.
 4. Het eisen van geld is toegestaan tijdens een overval, hier moet een Sherrif voor in dienst zijn.
 5. Een onderhandelaar mag niet gegijzeld worden, of van zijn-/haar leven worden beroofd.
 6. Er mag niet geschoten worden op een ambt. In functie als men zijn-/haar pistool richt op de
@@ -149,7 +149,7 @@ gedocumenteerd en uitgedeeld aan de Deputy’s & Sherrif’s.<br>
 1. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
 2. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke
 manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
-3. Men moet de onderhandeling aan gaan, dit betekent niet dat je tot een compromi hoeft te komen.
+3. Men moet de onderhandeling aan gaan, dit betekent niet dat je tot een compromis hoeft te komen.
 4. Het eisen van geld is toegestaan tijdens een overval, hier moet een Sherrif voor in dienst zijn.
 5. Een onderhandelaar mag niet gegijzeld worden, of van zijn-/haar leven worden beroofd.
 6. Er mag niet geschoten worden op een ambt. In functie als men zijn-/haar pistool richt op de
