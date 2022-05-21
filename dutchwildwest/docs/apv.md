@@ -136,8 +136,8 @@ Echter met de goede RP iemand iets laten vergeten zien we wel graag!<br>
 manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
 3. Men moet de onderhandeling aan gaan, dit betekent niet dat je tot een compromis hoeft te komen.
 4. Het eisen van geld is toegestaan tijdens een overval, hier moet een Sherrif voor in dienst zijn.
-5. Een onderhandelaar mag niet gegijzeld worden, of van zijn-/haar leven worden beroofd.
-6. Er mag niet geschoten worden op een ambt. in functie als men zijn-/haar pistool richt op de
+5. Een onderhandelaar mag niet gegijzeld worden, of van zijn/haar leven worden beroofd.
+6. Er mag niet geschoten worden op een ambt. in functie als men zijn/haar pistool richt op de
 desbetreffende winkel/bank tijdens een overval.
 7. Een ambt. in functie mag niet zomaar doelloos rondschieten bij het arriveren of onderhandelen
 tijdens een overval.
@@ -151,8 +151,8 @@ gedocumenteerd en uitgedeeld aan de Deputys & Sheriffs.<br>
 manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
 3. Men moet de onderhandeling aan gaan, dit betekent niet dat je tot een compromis hoeft te komen.
 4. Het eisen van geld is toegestaan tijdens een overval, hier moet een Sherrif voor in dienst zijn.
-5. Een onderhandelaar mag niet gegijzeld worden, of van zijn-/haar leven worden beroofd.
-6. Er mag niet geschoten worden op een ambt. in functie als men zijn-/haar pistool richt op de
+5. Een onderhandelaar mag niet gegijzeld worden, of van zijn/haar leven worden beroofd.
+6. Er mag niet geschoten worden op een ambt. in functie als men zijn/haar pistool richt op de
 desbetreffende winkel/bank tijdens een overval.
 7. Een ambt. in functie mag niet zomaar doelloos rondschieten bij het arriveren of onderhandelen
 tijdens een overval.
@@ -164,8 +164,7 @@ gedocumenteerd en uitgedeeld aan de Deputys & Sheriffs.<br>
 1. Voor een ambtenaar (dokter of sheriff) is het niet toegestaan zich bezig te houden met illegale activiteiten.
 2. Bij een overtreding van de regel die hier boven wordt genoemd wordt de overtreder ontslagen en
 hiernaast bestraft volgens beoordeling van een stafflid.
-3. Het is ten strengste verboden om een dokter te vermoorden, beledigen of niet mee te werken met
-de roleplay van een dokter. Hou het leuk voor iedereen.
+3. Het is ten strengste verboden om een dokter te vermoorden, beledigen of niet mee te werken met zijn/haar roleplay.
 4. Roleplay met de dokter moet uitgebreid en realistisch zijn. Er wordt verwacht dat je eerlijk bent over
 je verwondingen en deze logisch inschat. Ook dien je mee te werken met de roleplay en mag je de
 dokter niet forceren om spelers te reviven. Doktoren hebben te allen tijde het recht om je dood te
