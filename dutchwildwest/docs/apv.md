@@ -161,8 +161,7 @@ gedocumenteerd en uitgedeeld aan de Deputys & Sheriffs.<br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 
 ## Criminaliteit & Ambtenaren
-1. Voor een ambtenaar (dokter of sherrif) is het niet toegestaan zich bezig te houden met illegale
-bezigheden.
+1. Voor een ambtenaar (dokter of sheriff) is het niet toegestaan zich bezig te houden met illegale activiteiten.
 2. Bij een overtreding van de regel die hier boven wordt genoemd wordt de overtreder ontslagen en
 hiernaast bestraft volgens beoordeling van een stafflid.
 3. Het is ten strengste verboden om een dokter te vermoorden, beledigen of niet mee te werken met
