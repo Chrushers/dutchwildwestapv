@@ -141,8 +141,8 @@ manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
 desbetreffende winkel/bank tijdens een overval.
 7. Een ambt. in functie mag niet zomaar doelloos rondschieten bij het arriveren of onderhandelen
 tijdens een overval.
-8. Deputy’s & Sherrif’s mogen niet zomaar binnentreden tijdens een overval, deze regels zijn uitgebreid
-gedocumenteerd en uitgedeeld aan de Deputy’s & Sherrif’s.<br>
+8. Deputys & Sheriffs mogen niet zomaar binnentreden tijdens een overval, deze regels zijn uitgebreid
+gedocumenteerd en uitgedeeld aan de Deputys & Sheriffs.<br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 
 ## Bankoverval regels
@@ -156,8 +156,8 @@ manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
 desbetreffende winkel/bank tijdens een overval.
 7. Een ambt. in functie mag niet zomaar doelloos rondschieten bij het arriveren of onderhandelen
 tijdens een overval.
-8. Deputy’s & Sherrif’s mogen niet zomaar binnentreden tijdens een overval, deze regels zijn uitgebreid
-gedocumenteerd en uitgedeeld aan de Deputy’s & Sherrif’s.<br>
+8. Deputys & Sheriffs mogen niet zomaar binnentreden tijdens een overval, deze regels zijn uitgebreid
+gedocumenteerd en uitgedeeld aan de Deputys & Sheriffs.<br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 
 ## Criminaliteit & Ambtenaren
