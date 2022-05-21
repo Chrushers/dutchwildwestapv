@@ -7,7 +7,7 @@ Wij zijn blij dat je erbij bent! <br>
 Wij begrijpen dat veel mensen hun bestaande personages naar een nieuwe server willen brengen.<br>
 Dat stimuleren en juichen wij toe! Welkom! Wel vragen wij je oude verhaallijnen achter je te laten.<br>
 
-Een van onze primaire doelen met Dutch Wild West was om NIEUWE verhalen, NIEUWE relaties, NIEUWE verhaallijnen te creëren - oude rivaliteit, oude vijanden, oude wrok achterlaten.. een NIEUW begin! <br>
+Eén van onze primaire doelen met Dutch Wild West was om NIEUWE verhalen, NIEUWE relaties, NIEUWE verhaallijnen te creëren - oude rivaliteit, oude vijanden, oude wrok achterlaten.. een NIEUW begin! <br>
 <br>
 Als jij een bestaande persoonlijkheid/personage hier brengt: geniet ervan, maar doe er alles aan om ze te betrekken bij nieuwe verhalen en nieuwe relaties.<br>
 <br>
