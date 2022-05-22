@@ -1,3 +1,10 @@
+## Whitelist voorwaarden
+Tijdens een whitelist gesprek is het verboden om te liegen.<br>
+Je moet ten alle tijden de waarheid spreken.<br>
+<br>
+Als wij kunnen bevestigen dat jij je niet aan deze regel houdt, dan zul jij je whitelist rol verliezen.<br>
+<br>
+
 ## No Value of Life
 <br>
 Hij/zij die geen waarde hecht aan het leven van zijn karakter.
@@ -281,10 +288,11 @@ Ben jij je huis kwijt geraakt hier door?
 Dan kunnen wij helaas geen refund toekennen.
 <br>
 
-## Whitelist voorwaarden
-Tijdens een whitelist gesprek is het verboden om te liegen.<br>
-Je moet ten alle tijden de waarheid spreken.<br>
+## Job Hop
+<br></br>
+Om van job te kunnen switchen zul jij acht kalenderdagen moeten wachten.
 <br>
-Als wij kunnen bevestigen dat jij je niet aan deze regel houdt, dan zul jij je whitelist rol verliezen.<br>
+Als wij kunnen bevestigen dat jij je niet aan deze regel houdt, dan zul jij een straf ontvangen van de 5e CAT.
+<br>
 <br></br>
 <br></br>
