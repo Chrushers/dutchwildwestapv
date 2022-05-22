@@ -32,16 +32,22 @@ Geen feit is strafbaar dan uit kracht van een daaraan voorafgegane strafbepaling
 ## Art. 1.2 - Straffen
 <br></br>
 De straffen die kunnen worden opgelegd zijn:
+<br>
 &nbsp; 1. De doodstraf
+<br>
 &nbsp; 2. Gevangenisstraf
+<br>
 &nbsp; 3. Taakstraf
+<br>
 &nbsp; 4. Een geldboete
+<br>
 Het is mogelijk een combinatie van deze straffen op te leggen.
 <br></br>
 
 ## Art. 1.3 - Maximale duur gevangenisstraf & boete
 <br></br>
-Een gevangenisstraf opgelegd zonder tussenkomst van een rechter bedraagt maximaal 45 maanden. De maximumboete die zonder tussenkomst van een rechter kan worden opgelegd bedraagt $350.
+Een gevangenisstraf opgelegd zonder tussenkomst van een rechter bedraagt maximaal 45 maanden.<br>
+De maximumboete die zonder tussenkomst van een rechter kan worden opgelegd bedraagt $350.
 <br></br>
 
 ## Art. 1.4 - Voorwaardelijke straffen
