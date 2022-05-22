@@ -485,4 +485,5 @@ Het op onverantwoorde wijze gedragen binnen het verkeer door bijvoorbeeld de doo
 De straffen die kunnen worden opgelegd voor dit feit zijn maximaal:
 <br>
 &nbsp; 1. $ 50 geldboete
-<br>
+<br></br>
+<br></br>
