@@ -1,5 +1,5 @@
 site_name: Dutch Wild West
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_url: https://github.com/lucajjj/dutchwildwestapv
 theme:
   name: material
   language: nl
