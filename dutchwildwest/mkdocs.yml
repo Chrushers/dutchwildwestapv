@@ -6,6 +6,11 @@ theme:
   favicon: assets/logo.png
   palette:
     primary: black
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch 
+        name: Switch to dark mode
+    - scheme: slate
 nav:
   - Home: "index.md"
   - Inleiding: "inleiding.md"
