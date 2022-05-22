@@ -6,7 +6,7 @@ theme:
   favicon: assets/logo.png
     icon:
       repo: fontawesome/brands/git-alt
-      repo_url: https://github.com/lucajjj/dutchwildwestapv/tree/gh-pages
+  repo_url: https://github.com/lucajjj/dutchwildwestapv/tree/gh-pages
   palette:
     - scheme: default
       toggle:
