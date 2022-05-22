@@ -4,6 +4,9 @@ theme:
   language: nl
   logo: assets/logo.png
   favicon: assets/logo.png
+    icon:
+      repo: fontawesome/brands/git-alt
+      repo_url: https://github.com/lucajjj/dutchwildwestapv/tree/gh-pages
   palette:
     - scheme: default
       toggle:
