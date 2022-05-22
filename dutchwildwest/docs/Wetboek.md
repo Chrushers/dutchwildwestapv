@@ -100,6 +100,7 @@ Als medeplichtige van een strafbaar feit wordt gezien:
 ## Art. 1.9 - Taakstraffen
 <br></br>
 In plaats van, of in combinatie met, een boete kan een taakstraf worden opgelegd. Deze bedraagt maximaal de hoogte van de boete x2 in aantal taken.
+<br>
 Dit kan alleen indien:
 <br>
 &nbsp; - geen gevangenisstraf wordt opgelegd, en
