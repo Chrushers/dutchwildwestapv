@@ -1,4 +1,4 @@
-# Wetboek van Strafrecht
+## Wetboek van Strafrecht
 <br>
 Wet van 3 Maart 1881
 <br></br>
