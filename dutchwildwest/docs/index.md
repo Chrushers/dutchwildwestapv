@@ -20,4 +20,3 @@ Adam C.</font>
 |---|---|:---:|
 |Dutch Wild West Roleplay| Main Discord server van Dutch Wild West | [Invite](https://discord.gg/dutchwildwest) |
 |Dutch Wild West Support| Support Discord server van Dutch Wild West | [Invite](https://discord.gg/GTFcMy96fa) |
-|Dutch Wild West Ondernemers| Ondernemers Discord van Dutch Wild West | [Invite](https://discord.gg/UU5WDE5T5w) |

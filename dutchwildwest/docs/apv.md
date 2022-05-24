@@ -87,6 +87,7 @@ Crash je? Dan ben je verplicht om terug te komen.
 
 ## Corruptie
 Corruptie is niet toegestaan binnen onze stadsmuren.<br>
+Corruptie is niet toegestaan als jij deel uitmaakt van een Whitelisted Job.<br>
 ^ Dit wordt bestraft met een straf van de 3e CAT + verlies van baan.
 
 ## Server restart
@@ -254,6 +255,7 @@ Het met opzet campen van quicksell locaties en-/of zwarte markt is niet toegesta
 Het campen van waardetransport locaties is niet toegestaan.<br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 <br>
+
 ## Exploits, bugs en de economie
 Hoewel we ons best zullen doen om ervoor te zorgen dat eventuele bugs of exploits worden
 geëlimineerd, zal er altijd iets nieuws worden ontdekt door een speler of iets dat grotendeels
@@ -289,10 +291,26 @@ Dan kunnen wij helaas geen refund toekennen.
 <br>
 
 ## Job Hop
-<br></br>
 Om van job te kunnen switchen zul jij acht kalenderdagen moeten wachten.
 <br>
 Als wij kunnen bevestigen dat jij je niet aan deze regel houdt, dan zul jij een straf ontvangen van de 5e CAT.
 <br>
+
+## Whitelisted Job's
+De volgende banen vallen onder een whitelisted job:
+<br>
+  -   Justitie   - en alle tussen rangen.<br>
+  -   Doktoren   - en alle tussen rangen.<br>
+  -   Paardenstable   - en alle tussen rangen.<br>
+  -   Ranch   - en alle tussen rangen.<br>
+  -   Gunsmith   - en alle tussen rangen.<br>
+<br></br>
+  Let op:  Alle jobs die hier niet vermeld staan zijn geen whitelisted jobs.<br>
+
+## ERP
+Het uitvoeren van een Erotische Roleplay is niet toegestaan.
+<br>
+Wij zullen hier eerst een warning voor uitdelen > bij het niet houden aan deze regel zijn wij genoodzaakt om je te straffen met de 4e CAT.
+<br></br>
 <br></br>
 <br></br>
