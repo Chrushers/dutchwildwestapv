@@ -1,5 +1,5 @@
 site_name: Dutch Wild West
-repo_url: https://github.com/lucajjj/dutchwildwestapv/tree/main
+repo_url: https://github.com/lucajjj/dutchwildwestapv/tree/gh-pages
 theme:
   name: material
   language: nl
