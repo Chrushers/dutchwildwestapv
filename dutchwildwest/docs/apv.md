@@ -194,7 +194,7 @@ speler aan zijn/haar stem te herkennen.
 het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen,
 babystemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden
 dat je enkel je stem zwaarder mag maken.
-4. Het is niet toegestaan om men hun stem te herkennen op welk aspect dan ook als deze gebruik maakt van een voicechanger.<br>
+4. Het is niet toegestaan om men hun stem te herkennen op welk aspect dan ook als deze gebruik maakt van een voicechanger<br>
 ^ Dit wordt bestraft met een straf van de 2e CAT.
 
 ## Meta-gaming en het gebruik van Discord
