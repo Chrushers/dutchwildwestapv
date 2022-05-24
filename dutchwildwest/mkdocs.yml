@@ -19,7 +19,6 @@ theme:
         name: Switch to light mode
 nav:
   - Home: "index.md"
-  - Inleiding: "inleiding.md"
   - Algemene Regels: "algemeneregels.md"
   - Strafbepaling: "strafbepaling.md"
   - Algemene Plaatselijke Verordening: "apv.md"
