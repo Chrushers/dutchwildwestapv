@@ -300,17 +300,20 @@ Als wij kunnen bevestigen dat jij je niet aan deze regel houdt, dan zul jij een 
 De volgende banen vallen onder een whitelisted job:
 <br>
   -   Justitie   - en alle tussen rangen.<br>
+  -   Deputies & Sheriffs   - en alle tussen rangen.<br>
   -   Doktoren   - en alle tussen rangen.<br>
   -   Paardenstable   - en alle tussen rangen.<br>
   -   Ranch   - en alle tussen rangen.<br>
   -   Gunsmith   - en alle tussen rangen.<br>
+  -   Trein   - en alle tussen rangen.<br>
 <br></br>
-  Let op:  Alle jobs die hier niet vermeld staan zijn geen whitelisted jobs.<br>
+  Let op:  Alle jobs die hier niet vermeld staan zijn geen whitelisted jobs. (Boerderij, Saloon etc.)<br>
 
 ## ERP
 Het uitvoeren van een Erotische Roleplay is niet toegestaan.
 <br>
-Wij zullen hier eerst een warning voor uitdelen > bij het niet houden aan deze regel zijn wij genoodzaakt om je te straffen met de 4e CAT.
+Wij zullen hier eerst een warning voor uitdelen.<br>
+Bij het niet houden aan deze regel zijn wij genoodzaakt om je te straffen met de 4e CAT.
 <br></br>
 <br></br>
 <br></br>
