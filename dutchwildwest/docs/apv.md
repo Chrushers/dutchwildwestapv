@@ -33,7 +33,9 @@ Dit betekent dat je niet meer mee mag doen aan een wraak actie in de vorige RP.
 <br>
 
 ## FailRP & Powergaming
-Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke of onrealistische draai aan het verhaal geeft, of de roleplay van de andere partij zelf invult door onrealistische dwang, wordt gestraft volgens de eerste categorie.
+Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke of onrealistische draai aan het verhaal geeft, of de roleplay van de andere partij zelf invult door onrealistische dwang, wordt gestraft volgens de eerste categorie.<br>
+Het is dus ook ten strengste verboden om men te herkennen via de 'Give' button van het inventory menu.<br>
+Dit is idemdito zo voor het gebruiken van je rechtermuisknop om mensen te herkennen. Dit is ten strengste verboden.<br>
 <br>
 ^ Dit wordt bestraft met een straf van de 1e CAT
 <br>
@@ -181,6 +183,9 @@ verklaren als je door verwondingen en/of situatie dood zou moeten zijn.
 6. Het is verboden om valse meldingen te maken. (/alertpolice, /alertdoctor & /alertranger)<br>
 ^ Dit wordt bestraft met een straf van de 2e CAT.
 
+## Gezichtsbedekking
+1. Het is niet toegestaan om men te herkennen als deze gebruik maakt van een bandana die volledig gezichtsbedekkend is.
+
 ## Stemherkenning en voicechanger
 1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent.
 2. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een
@@ -188,7 +193,8 @@ speler aan zijn/haar stem te herkennen.
 3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende
 het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen,
 babystemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden
-dat je enkel je stem zwaarder mag maken.<br>
+dat je enkel je stem zwaarder mag maken.
+4. Het is niet toegestaan om men hun stem te herkennen op welk aspect dan ook als deze gebruik maakt van een voicechanger.<br>
 ^ Dit wordt bestraft met een straf van de 2e CAT.
 
 ## Meta-gaming en het gebruik van Discord
@@ -277,7 +283,8 @@ Kleine/middelgrote geldexploitaties hebben een GROTE impact op de economie en le
 economische stagnatie, te veel geld dat achtervolgt op weinig goederen.<br>
 We kunnen dit niet genoeg benadrukken - we tolereren geen economische manipulatie in Dutch Wild
 West - het verpest de ervaring voor de hele gemeenschap.<br>
-^ Dit wordt bestraft met een straf van de 7e CAT
+In de meest extreme gevallen kan dit zorgen voor een volledige accountwipe.<br>
+^ Dit wordt bestraft met een straf van de 7e CAT.
 
 ## Hoeveelheid huizen per burger
 Momenteel is het niet toegestaan om meer dan een huis per burgers in bezit te hebben.<br>
@@ -299,13 +306,14 @@ Als wij kunnen bevestigen dat jij je niet aan deze regel houdt, dan zul jij een 
 ## Whitelisted Job's
 De volgende banen vallen onder een whitelisted job:
 <br>
-  -   Justitie   - en alle tussen rangen.<br>
-  -   Deputies & Sheriffs   - en alle tussen rangen.<br>
-  -   Doktoren   - en alle tussen rangen.<br>
-  -   Paardenstable   - en alle tussen rangen.<br>
-  -   Ranch   - en alle tussen rangen.<br>
-  -   Gunsmith   - en alle tussen rangen.<br>
-  -   Trein   - en alle tussen rangen.<br>
+  -   Justitie<br>
+  -   Deputies & Sheriffs<br>
+  -   Doktoren<br>
+  -   Paardenstable<br>
+  -   Ranch<br>
+  -   Gunsmith<br>
+  -   Trein<br>
+  ^- Dit geldt ook voor alle tussen rangen.<br>
 <br></br>
   Let op:  Alle jobs die hier niet vermeld staan zijn geen whitelisted jobs. (Boerderij, Saloon etc.)<br>
 
@@ -313,7 +321,7 @@ De volgende banen vallen onder een whitelisted job:
 Het uitvoeren van een Erotische Roleplay is niet toegestaan.
 <br>
 Wij zullen hier eerst een warning voor uitdelen.<br>
-Bij het niet houden aan deze regel zijn wij genoodzaakt om je te straffen met de 4e CAT.
+Bij het niet houden aan deze regel zul jij een straf ontvangen van de 4e CAT.
 <br></br>
 <br></br>
 <br></br>
