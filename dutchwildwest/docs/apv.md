@@ -137,7 +137,7 @@ Daar en tegen iemand iets doen vergeten doormiddel van doordachte en goede rolep
 1. Een gegijzelde mag geen kennis en/of vriend van, maar moet een onbekend persoon zijn.
 2. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke
 manieren eerst een vuurgevecht te vermijden en onderhandel met de deputies & sheriffs.
-3. Men moet de onderhandeling aan gaan, dit betekent niet dat je tot een compromis hoeft te komen.
+3. Men moet te allen tijde de onderhandelingen aangaan met de deputies en/of sherrifs, dit betekent niet dat je tot een compromis hoeft te komen.
 4. Het eisen van geld is toegestaan tijdens een overval, echter moet er wel minimaal één sheriff in dienst zijn.
 5. Een onderhandelaar mag niet gegijzeld worden, noch van zijn/haar leven worden beroofd.
 6. Er mag niet geschoten worden op een ambt. in functie als men zijn/haar pistool richt op de
@@ -145,22 +145,22 @@ desbetreffende winkel tijdens een overval.
 7. Een ambt. in functie mag niet zomaar doelloos rondschieten bij het arriveren of onderhandelen
 tijdens een overval.
 8. Deputies & sheriffs mogen mogen niet zomaar binnentreden tijdens een overval, deze regels zijn uitgebreid
-gedocumenteerd en uitgedeeld aan de deputies & sheriffs<br>
+gedocumenteerd en uitgedeeld aan de deputies & sheriffs.<br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 
 ## Bankoverval regels
 1. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
 2. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke
-manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
-3. Men moet de onderhandeling aan gaan, dit betekent niet dat je tot een compromis hoeft te komen.
-4. Het eisen van geld is toegestaan tijdens een overval, hier moet een Sherrif voor in dienst zijn.
-5. Een onderhandelaar mag niet gegijzeld worden, of van zijn/haar leven worden beroofd.
+manieren eerst een vuurgevecht te vermijden en onderhandel met de deputies & sheriffs.
+3. Men moet te allen tijde de onderhandelingen aangaan met de deputies en/of sherrifs, dit betekent niet dat je tot een compromis hoeft te komen.
+4. Het eisen van geld is toegestaan tijdens een overval, echter moet er wel minimaal één sheriff in dienst zijn.
+5. Een onderhandelaar mag niet gegijzeld worden, noch van zijn/haar leven worden beroofd.
 6. Er mag niet geschoten worden op een ambt. in functie als men zijn/haar pistool richt op de
-desbetreffende winkel/bank tijdens een overval.
+desbetreffende bank tijdens een overval.
 7. Een ambt. in functie mag niet zomaar doelloos rondschieten bij het arriveren of onderhandelen
 tijdens een overval.
-8. Deputys & Sheriffs mogen niet zomaar binnentreden tijdens een overval, deze regels zijn uitgebreid
-gedocumenteerd en uitgedeeld aan de Deputys & Sheriffs.<br>
+8. Deputies & sheriffs mogen mogen niet zomaar binnentreden tijdens een overval, deze regels zijn uitgebreid
+gedocumenteerd en uitgedeeld aan de deputies & sheriffs.<br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 
 ## Criminaliteit & Ambtenaren
