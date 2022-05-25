@@ -149,7 +149,7 @@ gedocumenteerd en uitgedeeld aan de deputies & sheriffs.<br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 
 ## Bankoverval regels
-1. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
+1. Een gegijzelde mag geen kennis en/of vriend van je zijn, maar moet een onbekend persoon zijn.
 2. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke
 manieren eerst een vuurgevecht te vermijden en onderhandel met de deputies & sheriffs.
 3. Men moet te allen tijde de onderhandelingen aangaan met de deputies en/of sherrifs, dit betekent niet dat je tot een compromis hoeft te komen.
