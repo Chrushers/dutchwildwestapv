@@ -1,6 +1,7 @@
-Categorie 1: Een waarschuwing + 100 taakstraffen.
-<br>
-2e warning is 175 taakstraffen & 3e warning is 350.
+Categorie 1:<br>
+Eerste waarschuwing + 100 taakstraffen.<br>
+Tweede waarschuwing + 175 taakstraffen.<br>
+Derde waarschuwing + 350 taakstraffen.<br>
 <br>
 Categorie 2: Een ban van maximaal 1 dag
 <br>
