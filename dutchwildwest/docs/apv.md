@@ -108,18 +108,18 @@ Reageer je OOC gevoelens niet af op iemand in chat of privé.<br>
 ## Overvallen & Oplichten
 1. Het overvallen/oplichten/bestelen van mensen is verboden tenzij die persoon bezig is met criminele activiteiten.<br>
 2. In onderstaande situaties mag je iemand NIET overvallen, oplichten en/of bestelen:<br>
-- Het stelen/overvallen van bankgeld.<br>
-- Paarden en koetsen leegroven.<br>
-- Onder dwang iemand zijn huis of gebouw betreden en dan leegroven. Ook de shops<br>
+&nbsp; - Het stelen/overvallen van bankgeld.<br>
+&nbsp; - Paarden en koetsen leegroven.<br>
+&nbsp; - Onder dwang iemand zijn huis of gebouw betreden en dan leegroven. Ook de shops<br>
 van ondernemers vallen hieronder.<br>
-- Het is alleen toegestaan om wapens te stelen van personen als deze zich bezig<br>
+&nbsp; - Het is alleen toegestaan om wapens te stelen van personen als deze zich bezig<br>
 houden met criminele activiteiten.<br>
-- Als je /bandana doet zonder een bandana om te hebben (deze heb je nodig om een ov te 
+&nbsp; - Als je /bandana doet zonder een bandana om te hebben (deze heb je nodig om een ov te 
 kunnen starten), en daarmee een overval pleegt, valt dit onder powergaming en zullen <br>
 bijpassende straffen worden uitgedeeld.<br>
-- De trein mag te allen tijde worden overvallen.<br>
-- Bij aanwezigheid alleen een machinist mag men vijf goldbars vragen tijdens een &nbsp;overval.<br>
-- Bij aanwezigheid van een machinist + bewaking mag men maximaal tien goldbars 
+&nbsp; - De trein mag te allen tijde worden overvallen.<br>
+&nbsp; - Bij aanwezigheid alleen een machinist mag men vijf goldbars vragen tijdens een &nbsp;overval.<br>
+&nbsp; - Bij aanwezigheid van een machinist + bewaking mag men maximaal tien goldbars 
 vragen tijdens een overval.<br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 
