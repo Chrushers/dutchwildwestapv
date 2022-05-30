@@ -125,7 +125,7 @@ vragen tijdens een overval.<br>
 
 ## Burgers ontvoeren/overvallen
 1. Men mag spullen & wapens afnemen van mensen die zich bezighouden met criminele activiteiten.
-2. Mensen met ggezichtsbedekkende kledij (o.a. masker) mogen ook overvallen worden.
+2. Mensen met gezichtsbedekkende kledij (o.a. masker) mogen ook overvallen worden. (m.u.v. Bounty Hunters)
 3. Je mag een burger maximaal twee uur lang ontvoeren.
 4. Als jij een persoon ontvoert en de gegijzelde werkt keurig mee, dan mag deze niet van zijn/haar
 leven worden beroofd.<br>
