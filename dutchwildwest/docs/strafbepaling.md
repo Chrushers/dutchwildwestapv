@@ -1,21 +1,28 @@
-Categorie 1:<br>
-Eerste waarschuwing + 100 taakstraffen.<br>
-Tweede waarschuwing + 175 taakstraffen.<br>
-Derde waarschuwing + 350 taakstraffen.<br>
-Categorie 2: Een ban van maximaal 1 dag
+- Categorie 1:<br>
+- Eerste waarschuwing + 100 taakstraffen.<br>
+- Tweede waarschuwing + 175 taakstraffen.<br>
+- Derde waarschuwing + 350 taakstraffen.<br>
+- Categorie 2: Een ban van maximaal 1 dag
 <br>
-Categorie 3: Een ban van maximaal 2 dag
+
+- Categorie 3: Een ban van maximaal 2 dag
 <br>
-Categorie 4: Een ban van maximaal 3 dagen
+
+- Categorie 4: Een ban van maximaal 3 dagen
 <br>
-Categorie 5: Een ban van maximaal 1 week
+
+- Categorie 5: Een ban van maximaal 1 week
 <br>
-Categorie 6: Een ban van maximaal 1 maand
+
+- Categorie 6: Een ban van maximaal 1 maand
 <br>
-Categorie 7: Permanente ban
+
+- Categorie 7: Permanente ban
 <br>
-Categorie 8: Account wipe
+
+- Categorie 8: Account wipe
 <br>
+
 <br>
 &nbsp;    • Bij 3 waarschuwingen in 1 maand van CAT. 1 volgt automatisch oplegging CAT. 2
 <br>
