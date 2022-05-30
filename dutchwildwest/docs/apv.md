@@ -48,7 +48,7 @@ Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat
 Hieronder vallen ook termen zoals "report", "admin",
 "ticket" en dergelijke.
 <br>
-^ Dit wordt bestraft met een straf van de 2e CAT.
+^ Dit wordt bestraft met een straf van de 1e CAT.
 
 ## VDM
 Op iemand inrijden met de intentie deze persoon en/of NPC te vermoorden is niet toegestaan. Je paard of koets bewust als wapen gebruiken is tevens ook niet toegestaan en zal daarom ook onmiddellijk bestraft worden.
@@ -182,13 +182,11 @@ verklaren als je door verwondingen en/of situatie dood zou moeten zijn.
 
 ## Stemherkenning en voicechanger
 1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent.
-2. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een
-speler aan zijn/haar stem te herkennen.
-3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende
+2. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende
 het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen,
 babystemmen en dergelijken zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden
 dat je enkel je stem zwaarder mag maken.
-4. Het is niet toegestaan om iemand te herkennen a.d.v. zijn/haar stem als deze gebruik maakt van een voicechanger<br>
+3. Het is niet toegestaan om iemand te herkennen a.d.v. zijn/haar stem als deze gebruik maakt van een voicechanger<br>
 ^ Dit wordt bestraft met een straf van de 2e CAT.
 
 ## Meta-gaming en het gebruik van Discord
