@@ -130,7 +130,7 @@ Reageer je OOC gevoelens niet af op iemand in chat of privé.<br>
 - Als jij een persoon ontvoert en de gegijzelde werkt keurig mee, dan mag deze niet van zijn/haar
 leven worden beroofd.<br>
 Daar en tegen iemand iets doen vergeten doormiddel van doordachte en goede roleplay zien we wel graag!<br>
-Als men aan het goudpannen is, mag men overvallen worden van hun goldnuggets/goldbars die zij op zak hebben. Men is niet verplicht goldnuggets/goldbars uit hun paard of wagen te halen.<br>
+- Als men aan het goudpannen is, mag men overvallen worden van hun goldnuggets/goldbars die zij op zak hebben. Men is niet verplicht goldnuggets/goldbars uit hun paard of wagen te halen.<br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 
 ## Winkel Overval Regels
