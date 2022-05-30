@@ -24,7 +24,7 @@ Titel III - Overtredingen
 ## Titel I - Algemene Bepalingen
 <br></br>
 
-# Art. 1.1 - Legaliteitsbeginsel
+## Art. 1.1 - Legaliteitsbeginsel
 <br></br>
 Geen feit is strafbaar dan uit kracht van een daaraan voorafgegane strafbepaling.
 <br></br>
