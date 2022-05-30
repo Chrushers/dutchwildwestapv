@@ -272,7 +272,7 @@ In de meest extreme gevallen kan dit zorgen voor een volledige wipe van je chara
 ^ Dit wordt bestraft met een straf van de 7e CAT.
 
 ## Hoeveelheid huizen per burger
-Momenteel is het niet toegestaan om meer dan één huis per burger in bezit te hebben.<br>
+Momenteel is het niet toegestaan om meer dan één huis per burger of per groep in bezit te hebben.<br>
 ^ Heb jij dit wel? Dan loop jij het risico om je huis te verliezen.<br>
 <br>
 Iedere 15e van de maand zal de belasting automatisch geincasseerd worden vanuit de ledger van je huis.<br>
