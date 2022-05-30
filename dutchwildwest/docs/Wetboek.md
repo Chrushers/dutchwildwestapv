@@ -21,10 +21,10 @@ Titel III - Overtredingen
 <br></br>
 <br></br>
 
-### Titel I - Algemene Bepalingen
+## Titel I - Algemene Bepalingen
 <br></br>
 
-## Art. 1.1 - Legaliteitsbeginsel
+# Art. 1.1 - Legaliteitsbeginsel
 <br></br>
 Geen feit is strafbaar dan uit kracht van een daaraan voorafgegane strafbepaling.
 <br></br>
@@ -108,7 +108,7 @@ Dit kan alleen indien:
 &nbsp; - er geen strafmaximum van meer dan 15 maanden gevangenisstraf op het betreffende delict staat.
 <br>
 
-### TITEL II – Misdrijven
+# TITEL II – Misdrijven
 <br></br>
 
 ## Art. 2.1 – Moord
@@ -356,7 +356,7 @@ De straffen die kunnen worden opgelegd voor dit feit zijn maximaal:
 &nbsp; 1. $ 50 geldboete
 <br>
 
-### TITEL III – Overtredingen
+# TITEL III – Overtredingen
  
 ## Art. 3.1 – Rondzwaaien met een vuurwapen
 <br></br>
