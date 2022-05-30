@@ -120,9 +120,7 @@ Reageer je OOC gevoelens niet af op iemand in chat of privé.<br>
 &nbsp;4. De trein mag te allen tijde worden overvallen.<br>
 &nbsp;5. Bij aanwezigheid alleen een machinist mag men vijf goldbars vragen tijdens een &nbsp;overval.<br>
 &nbsp;6. Bij aanwezigheid van een machinist + bewaking mag men maximaal tien goldbars 
-&nbsp;vragen tijdens
-&nbsp;een overval.<br>
-&nbsp;7. Als men aan het goudpannen is, mag men overvallen worden van hun goldnuggets/goldbars.
+&nbsp;vragen tijdens een overval.<br>
 &nbsp;^ Dit wordt bestraft met een straf van de 1e CAT.
 
 ## Burgers ontvoeren/overvallen
@@ -132,6 +130,7 @@ Reageer je OOC gevoelens niet af op iemand in chat of privé.<br>
 - Als jij een persoon ontvoert en de gegijzelde werkt keurig mee, dan mag deze niet van zijn/haar
 leven worden beroofd.<br>
 Daar en tegen iemand iets doen vergeten doormiddel van doordachte en goede roleplay zien we wel graag!<br>
+Als men aan het goudpannen is, mag men overvallen worden van hun goldnuggets/goldbars die zij op zak hebben. Men is niet verplicht goldnuggets/goldbars uit hun paard of wagen te halen.<br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 
 ## Winkel Overval Regels
