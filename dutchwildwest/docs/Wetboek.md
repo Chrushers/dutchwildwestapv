@@ -10,7 +10,8 @@ Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is een Wetboek van 
 <br></br>
 Zoo is het, dat Wij, den Gemeenteraad gehoord en met gemeen overleg met het Ministerie van Justitie, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze, vast te stellen de navolgende bepalingen, welke zullen uitmaken het Wetboek van Strafrecht.
 <br></br>
-# Inhoud
+
+## Inhoud van het Wetboek
 <br></br>
 Titel I - Algemene Bepalingen
 <br></br>
