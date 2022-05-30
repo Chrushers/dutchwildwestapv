@@ -108,29 +108,29 @@ Reageer je OOC gevoelens niet af op iemand in chat of privé.<br>
 ## Overvallen & Oplichten
 1. Het overvallen/oplichten/bestelen van mensen is verboden tenzij die persoon bezig is met criminele activiteiten.<br>
 2. In onderstaande situaties mag je iemand NIET overvallen, oplichten en/of bestelen:<br>
-&nbsp; 1. Het stelen/overvallen van bankgeld.<br>
-&nbsp; 2. Paarden en koetsen leegroven.<br>
-&nbsp; 3. Onder dwang iemand zijn huis of gebouw betreden en dan leegroven. Ook de shops<br>
-&nbsp; van ondernemers vallen hieronder.<br>
-&nbsp; 4. Het is alleen toegestaan om wapens te stelen van personen als deze zich bezig<br>
-&nbsp; houden met criminele activiteiten.<br>
-&nbsp; 3. Als je /bandana doet zonder een bandana om te hebben (deze heb je nodig om een ov te 
-&nbsp; kunnen starten), en daarmee een overval pleegt, valt dit onder powergaming en zullen <br>
-&nbsp; bijpassende straffen worden uitgedeeld.<br>
-&nbsp;4. De trein mag te allen tijde worden overvallen.<br>
-&nbsp;5. Bij aanwezigheid alleen een machinist mag men vijf goldbars vragen tijdens een &nbsp;overval.<br>
-&nbsp;6. Bij aanwezigheid van een machinist + bewaking mag men maximaal tien goldbars 
-&nbsp;vragen tijdens een overval.<br>
-&nbsp;^ Dit wordt bestraft met een straf van de 1e CAT.
+- Het stelen/overvallen van bankgeld.<br>
+- Paarden en koetsen leegroven.<br>
+- Onder dwang iemand zijn huis of gebouw betreden en dan leegroven. Ook de shops<br>
+van ondernemers vallen hieronder.<br>
+- Het is alleen toegestaan om wapens te stelen van personen als deze zich bezig<br>
+houden met criminele activiteiten.<br>
+- Als je /bandana doet zonder een bandana om te hebben (deze heb je nodig om een ov te 
+kunnen starten), en daarmee een overval pleegt, valt dit onder powergaming en zullen <br>
+bijpassende straffen worden uitgedeeld.<br>
+- De trein mag te allen tijde worden overvallen.<br>
+- Bij aanwezigheid alleen een machinist mag men vijf goldbars vragen tijdens een &nbsp;overval.<br>
+- Bij aanwezigheid van een machinist + bewaking mag men maximaal tien goldbars 
+vragen tijdens een overval.<br>
+^ Dit wordt bestraft met een straf van de 1e CAT.
 
 ## Burgers ontvoeren/overvallen
-- Men mag spullen & wapens afnemen van mensen die zich bezighouden met criminele activiteiten.
-- Mensen met ggezichtsbedekkende kledij (o.a. masker) mogen ook overvallen worden.
-- Je mag een burger maximaal twee uur lang ontvoeren.
-- Als jij een persoon ontvoert en de gegijzelde werkt keurig mee, dan mag deze niet van zijn/haar
+1. Men mag spullen & wapens afnemen van mensen die zich bezighouden met criminele activiteiten.
+2. Mensen met ggezichtsbedekkende kledij (o.a. masker) mogen ook overvallen worden.
+3. Je mag een burger maximaal twee uur lang ontvoeren.
+4. Als jij een persoon ontvoert en de gegijzelde werkt keurig mee, dan mag deze niet van zijn/haar
 leven worden beroofd.<br>
 Daar en tegen iemand iets doen vergeten doormiddel van doordachte en goede roleplay zien we wel graag!<br>
-- Als men aan het goudpannen is, mag men overvallen worden van hun goldnuggets/goldbars die zij op zak hebben. Men is niet verplicht goldnuggets/goldbars uit hun paard of wagen te halen.<br>
+5. Als men aan het goudpannen is, mag men overvallen worden van hun goldnuggets/goldbars die zij op zak hebben. Men is niet verplicht goldnuggets/goldbars uit hun paard of wagen te halen.<br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 
 ## Winkel Overval Regels
