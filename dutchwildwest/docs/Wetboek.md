@@ -22,7 +22,7 @@ Titel III - Overtredingen
 <br></br>
 <br></br>
 
-## Titel I - Algemene Bepalingen
+# Titel I - Algemene Bepalingen
 <br></br>
 
 ## Art. 1.1 - Legaliteitsbeginsel
