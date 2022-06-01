@@ -303,6 +303,11 @@ Het uitvoeren van een Erotische Roleplay is niet toegestaan.
 <br>
 Wij zullen hier eerst een warning voor uitdelen.<br>
 Wanneer jij je niet aan deze regelt houdt, zul jij een straf ontvangen van de 4e CAT.
+
+## Gangs / Groepen
+Momenteel stellen wij de eis dat groepen maximaal 10 man mogen hebben.
+<br>
+Deze eis stellen wij omdat anders groepen veel te groot worden en dit nadelig kan zijn voor iedere andere groep.
 <br></br>
 <br></br>
 <br></br>
