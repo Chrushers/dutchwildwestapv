@@ -106,21 +106,16 @@ Reageer je OOC gevoelens niet af op iemand in chat of privé.<br>
 ^ Dit wordt bestraft met een straf van de 7e CAT.
 
 ## Overvallen & Oplichten
-1. Het overvallen/oplichten/bestelen van mensen is verboden tenzij die persoon bezig is met criminele activiteiten.<br>
-2. In onderstaande situaties mag je iemand NIET overvallen, oplichten en/of bestelen:<br>
-&nbsp; - Het stelen/overvallen van bankgeld.<br>
-&nbsp; - Paarden en koetsen leegroven.<br>
-&nbsp; - Onder dwang iemand zijn huis of gebouw betreden en dan leegroven. Ook de shops van
-&nbsp;&nbsp; ondernemers vallen hieronder.<br>
-&nbsp; - Het is alleen toegestaan om wapens te stelen van personen als deze zich bezig houden
-&nbsp;&nbsp; met criminele activiteiten.<br>
-&nbsp; - Als je /bandana doet zonder een bandana om te hebben (deze heb je nodig om een ov te
-&nbsp;&nbsp; kunnen starten), en daarmee een overval pleegt, valt dit onder powergaming en
-&nbsp;&nbsp; zullen bijpassende straffen worden uitgedeeld.<br>
-&nbsp; - De trein mag te allen tijde worden overvallen.<br>
+Het overvallen/oplichten/bestelen van mensen is verboden tenzij die persoon bezig is met criminele activiteiten.<br>
+In onderstaande situaties mag je iemand NIET overvallen, oplichten en/of bestelen:<br>
+1. Het stelen/overvallen van bankgeld.<br>
+2. Paarden en koetsen leegroven.<br>
+3. Onder dwang iemand zijn huis of gebouw betreden en dan leegroven. Ook de shops van ondernemers vallen hieronder.<br>
+4. Het is alleen toegestaan om wapens te stelen van personen als deze zich bezig houden met criminele activiteiten.<br>
+5. Als je /bandana doet zonder een bandana om te hebben (deze heb je nodig om een ov te kunnen starten), en daarmee een overval pleegt, valt dit onder powergaming en zullen bijpassende straffen worden uitgedeeld.<br>
+6. De trein mag te allen tijde worden overvallen.<br>
 &nbsp; - Bij aanwezigheid alleen een machinist mag men vijf goldbars vragen tijdens een overval.<br>
-&nbsp; - Bij aanwezigheid van een machinist + bewaking mag men maximaal tien goldbars vragen
-&nbsp;&nbsp; tijdens een overval.<br>
+&nbsp; - Bij aanwezigheid van een machinist + bewaking mag men maximaal tien goldbars vragen tijdens een overval.<br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 
 ## Burgers ontvoeren/overvallen
@@ -308,6 +303,11 @@ Het uitvoeren van een Erotische Roleplay is niet toegestaan.
 <br>
 Wij zullen hier eerst een warning voor uitdelen.<br>
 Wanneer jij je niet aan deze regelt houdt, zul jij een straf ontvangen van de 4e CAT.
+
+## Gangs / Groepen
+Momenteel stellen wij de eis dat een groep maximaal 10 man mag hebben.
+<br>
+Deze eis stellen wij omdat anders groepen veel te groot worden en dit nadelig kan zijn voor iedere andere groep.
 <br></br>
 <br></br>
 <br></br>
