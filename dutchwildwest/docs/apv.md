@@ -309,5 +309,12 @@ Momenteel stellen wij de eis dat een groep maximaal 10 man mag hebben.
 <br>
 Deze eis stellen wij omdat anders groepen veel te groot worden en dit nadelig kan zijn voor iedere andere groep.
 <br></br>
+
+## Lawless Land
+In het Lawless gedeelte is het toegestaan om mensen te overvallen van spullen die men in zijn/haar inventory heeft.
+<br>
+Dit betekent dat men niet verplicht is om zijn/haar paard/kar op te roepen om deze vervolgens leeg te maken.
+<br>
+Let op: Als men criminele activiteiten uitvoert, is het toegestaan om hem/haar te overvallen van zijn/haar wapens.
 <br></br>
 <br></br>
