@@ -311,7 +311,7 @@ Deze eis stellen wij omdat anders groepen veel te groot worden en dit nadelig ka
 <br></br>
 
 ## Lawless Land
-In het Lawless gedeelte is het toegestaan om mensen te overvallen van spullen die men in zijn/haar inventory heeft.
+In het Lawless gedeelte is het toegestaan om mensen te overvallen van spullen die men in zijn/haar inventory heeft. (m.u.v. deputies & doktoren)
 <br>
 Dit betekent dat men niet verplicht is om zijn/haar paard/kar op te roepen om deze vervolgens leeg te maken.
 <br>
