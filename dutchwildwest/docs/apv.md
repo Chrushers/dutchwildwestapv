@@ -309,6 +309,8 @@ Wanneer jij je niet aan deze regelt houdt, zul jij een straf ontvangen van de 4e
 ## Gangs / Groepen
 Momenteel stellen wij de eis dat een groep maximaal 10 man mag hebben.
 <br>
+Momenteel is het toegestaan om met maximaal zes man een overval te plegen, dit geldt voor alle soorten overvallen.
+<br>
 Deze eis stellen wij omdat anders groepen veel te groot worden en dit nadelig kan zijn voor iedere andere groep.
 <br></br>
 
@@ -319,4 +321,5 @@ Dit betekent dat men niet verplicht is om zijn/haar paard/kar op te roepen om de
 <br>
 Let op: Als men criminele activiteiten uitvoert, is het toegestaan om hem/haar te overvallen van zijn/haar wapens.
 <br></br>
+
 <br></br>
