@@ -18,5 +18,7 @@ Adam C.</font>
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
+|Dutch Wild West Website | De officiële website van Dutch Wild West | [Link](https://dutchwildwest.nl) |
+|Dutch Wild West Law | De officiële website van de deputies & bounty hunters | [Link](https://dutchwildwestlaw.nl)
 |Dutch Wild West Roleplay| Main Discord server van Dutch Wild West | [Invite](https://discord.gg/dutchwildwest) |
 |Dutch Wild West Support| Support Discord server van Dutch Wild West | [Invite](https://discord.gg/GTFcMy96fa) |
