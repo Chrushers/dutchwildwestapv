@@ -77,7 +77,7 @@ Start jij een schietpartij en/of een ander roleplay scenario?<br>
 Dan mag jij niet uitloggen binnen de 5 minuten na de start van dat scenario en/of de laatste interactie m.b.t. dit scenario.<br>
 Crash je? Dan ben je verplicht om terug te komen.
 <br>
-^ Dit wordt bestraft met een straf van de 5e CAT.
+^ Dit wordt bestraft met een straf van de 2e CAT.
 
 ## Corruptie
 Corruptie is niet toegestaan binnen onze stadsmuren.<br>
