@@ -7,6 +7,8 @@ theme:
   favicon: assets/logo.png
   icon:
     repo: fontawesome/brands/git-alt 
+  plugins:
+    - offline
   palette:
     - scheme: default
       toggle:
@@ -17,8 +19,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-    plugins:
-      - offline
 nav:
   - Home: "index.md"
   - Algemene Regels: "algemeneregels.md"
