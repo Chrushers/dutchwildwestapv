@@ -81,7 +81,7 @@ Crash je? Dan ben je verplicht om terug te komen.
 
 ## Corruptie
 Corruptie is niet toegestaan binnen onze stadsmuren.<br>
-Corruptie is niet toegestaan als jij deel uit maakt van een Whitelisted Job.<br>
+Corruptie is niet toegestaan als jij deel uit maakt van een <a href="https://wetboek.dutchwildwest.nl/apv/#whitelisted-jobs">Whitelisted Job.</a><br>
 ^ Dit wordt bestraft met een straf van de 3e CAT + verlies van baan.
 
 ## Server restart
