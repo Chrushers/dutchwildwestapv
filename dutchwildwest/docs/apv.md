@@ -321,5 +321,5 @@ Dit betekent dat men niet verplicht is om zijn/haar paard/kar op te roepen om de
 <br>
 Let op: Als men criminele activiteiten uitvoert, is het toegestaan om hem/haar te overvallen van zijn/haar wapens.
 <br></br>
-
+<img src="https://dutchwildwest.nl/uploads/newaustin.png">
 <br></br>
