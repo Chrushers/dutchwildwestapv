@@ -298,7 +298,8 @@ De volgende banen vallen onder een whitelisted job:
 
 Dit geldt ook voor alle tussen rangen.<br>
 <br></br>
-  Let op:  Alle jobs die hier niet vermeld staan, zijn geen whitelisted jobs (Boerderij, Saloon etc.)<br>
+  Let op: Alle jobs die hier niet vermeld staan, zijn geen whitelisted jobs (Boerderij, Saloon etc.)<br>
+  Let op: Ranch <b>medewerkers</b> mogen vanaf nu illegale activiteiten ondernemen.
 
 ## ERP
 Het uitvoeren van een Erotische Roleplay is niet toegestaan.
