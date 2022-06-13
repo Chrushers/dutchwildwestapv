@@ -34,6 +34,9 @@ Dit betekent dat je niet meer mee mag doen aan een wraak actie in de vorige RP. 
 Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke en/of onrealistische draai aan het verhaal wordt gegeven, of de roleplay van de andere partij zelf invult door onrealistische dwang, wordt gestraft volgens de eerste categorie.<br>
 Het is dus ook ten strengste verboden om men te herkennen via de 'Give' button van het inventory menu.<br>
 Dit is idem dito zo voor het gebruiken van je rechtermuisknop om mensen te herkennen. Dit is ten strengste verboden.<br>
+<br></br>
+Let op: Het achteruit rijden met de trein wordt gezien als FailRP, aangezien men geen zicht heeft op de achterkant van de trein.<br>
+Dit is ten strengste verboden.<br>
 <br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 <br>
