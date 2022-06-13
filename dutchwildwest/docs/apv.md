@@ -35,9 +35,6 @@ Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke en/of on
 Het is dus ook ten strengste verboden om men te herkennen via de 'Give' button van het inventory menu.<br>
 Dit is idem dito zo voor het gebruiken van je rechtermuisknop om mensen te herkennen. Dit is ten strengste verboden.<br>
 <br>
-Het onderstaande is een voorbeeld:<br>
-Je mag niet praten als je bewusteloos/dood bent, de enigste uitzondering hier op is, is als je in roleplay bent met een dokter.<br>
-<br>
 Let op: Het achteruit rijden met de trein wordt gezien als FailRP, aangezien men geen zicht heeft op de achterkant van de trein.<br>
 Dit is ten strengste verboden.<br>
 <br>
