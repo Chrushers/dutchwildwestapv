@@ -39,7 +39,7 @@ Het onderstaande is een voorbeeld:<br>
 Je mag niet praten als je bewusteloos/dood bent, de enigste uitzondering hier op is, is als je in roleplay bent met een dokter.<br>
 <br>
 Let op: Het achteruit rijden met de trein wordt gezien als FailRP, aangezien men geen zicht heeft op de achterkant van de trein.<br>
-Dit is ten strengste verboden.<br>
+Dit is ten strengste verboden. (m.u.v. als de wissels niet correct werken en je een stukje achteruit moet rijden)<br>
 <br>
 ^ Dit wordt bestraft met een straf van de 1e CAT.
 <br>
