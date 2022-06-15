@@ -481,15 +481,6 @@ De straffen die kunnen worden opgelegd voor dit feit zijn maximaal:
 
 ## Art. 3.14 – Onverantwoord gedrag in het verkeer
 <br></br>
-Het op onverantwoorde wijze gedragen binnen het verkeer door bijvoorbeeld de doorstroom te belemmeren of gevaarlijk, dan wel op hoge snelheden door de stadsgrenzen rijden.
-<br>
-De straffen die kunnen worden opgelegd voor dit feit zijn maximaal:
-<br>
-&nbsp; 1. $ 50 geldboete
-<br></br>
-
-## Art. 3.14 – Onverantwoord gedrag in het verkeer
-<br></br>
 Het op onverantwoorde wijze gedragen in het verkeer, ongeacht de vervoersmodaliteit, door bijvoorbeeld de doorstroom te belemmeren of gevaarlijk, dan wel op hoge
 snelheden door de stadsgrenzen rijden of onnodig achteruit te rijden met de trein.
 <br>
