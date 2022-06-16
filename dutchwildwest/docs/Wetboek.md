@@ -195,9 +195,9 @@ De straffen die kunnen worden opgelegd voor dit feit zijn maximaal:
 
 ## Art. 2.8 – Diefstal & Heling
 <br></br>
-&nbsp; 1. Diefstal betreft het wegnemen van goederen die toebehoren aan een ander.
+Diefstal betreft het wegnemen van goederen die toebehoren aan een ander.
 <br>
-&nbsp; 2. Heling betreft het bezit of de verkoop van goederen die toebehoren aan een ander, zonder daartoe gerechtigd te zijn.
+Heling betreft het bezit of de verkoop van goederen die toebehoren aan een ander, zonder daartoe gerechtigd te zijn.
 <br>
 De straffen die kunnen worden opgelegd voor dit feit zijn maximaal:
 <br>
