@@ -199,6 +199,11 @@ De straffen die kunnen worden opgelegd voor dit feit zijn maximaal:
 <br>
 &nbsp; 2. Heling betreft het bezit of de verkoop van goederen die toebehoren aan een ander, zonder daartoe gerechtigd te zijn.
 <br>
+De straffen die kunnen worden opgelegd voor dit feit zijn maximaal:
+<br>
+&nbsp; 1. 10 maanden gevangenisstraf
+<br>
+&nbsp; 2. $ 75 geldboete
 
 ## Art. 2.9 – Diefstal met geweld & overval van burgers
 <br></br>
