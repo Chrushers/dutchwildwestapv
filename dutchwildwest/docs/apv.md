@@ -284,7 +284,7 @@ Dan kunnen wij helaas geen refund toekennen.
 <br>
 
 ## Job Hop
-Om van job te kunnen switchen zul jij acht kalenderdagen moeten wachten.
+Om van job te kunnen switchen zul jij drie kalenderdagen moeten wachten.
 <br></br>
 Let op: Job Hop geldt alleen voor deputies, doktoren & justitie.
 <br></br>
