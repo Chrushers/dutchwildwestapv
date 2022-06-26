@@ -291,21 +291,19 @@ Let op: Job Hop geldt alleen voor deputies, doktoren & justitie.
 Als wij kunnen bevestigen dat jij je niet aan deze regel houdt, dan zul jij een straf ontvangen van de 5e CAT.
 <br>
 
-## Whitelisted Job's
+## Whitelisted Jobs
 De volgende banen vallen onder een whitelisted job:
 <br>
   -   Justitie<br>
   -   Deputies & Sheriffs<br>
   -   Doktoren<br>
   -   Paardenstable<br>
-  -   Ranch<br>
   -   Gunsmith<br>
   -   Trein<br>
 
 Dit geldt ook voor alle tussen rangen.<br>
 <br></br>
-  Let op: Alle jobs die hier niet vermeld staan, zijn geen whitelisted jobs (Boerderij, Saloon etc.)<br>
-  Let op: Ranch <b>medewerkers</b> mogen vanaf nu illegale activiteiten ondernemen.
+  Let op: Alle jobs die hier niet vermeld staan, zijn geen whitelisted jobs (Boerderij, Saloon, Ranch etc.)<br>
 
 ## ERP
 Het uitvoeren van een Erotische Roleplay is niet toegestaan.
@@ -329,4 +327,10 @@ Dit betekent dat men niet verplicht is om zijn/haar paard/kar op te roepen om de
 Let op: Als men criminele activiteiten uitvoert, is het toegestaan om hem/haar te overvallen van zijn/haar wapens.
 <br></br>
 <img src="https://dutchwildwest.nl/uploads/newaustin.png">
+<br></br>
+
+## Refund Informatie
+Wij hanteren een minimaal refund bedrag van $100, betekent dit dat jij spullen bent kwijtgeraakt die minder dan $100 van waarde zijn?
+<br>
+Dan zullen wij automatisch je refund ticket afkeuren.
 <br></br>
