@@ -87,7 +87,8 @@ Crash je? Dan ben je verplicht om terug te komen.
 
 ## Corruptie
 Corruptie is niet toegestaan binnen onze stadsmuren.<br>
-Corruptie is niet toegestaan als jij deel uit maakt van een <a href="https://wetboek.dutchwildwest.nl/apv/#whitelisted-jobs">Whitelisted Job.</a><br>
+Het samenwerken met de onderwereld is niet toegestaan, dit valt onder corruptie.<br>
+Dit geldt momenteel voor Doktoren, Deputies & Justitie.<br>
 ^ Dit wordt bestraft met een straf van de 3e CAT + verlies van baan.
 
 ## Server restart
@@ -276,7 +277,7 @@ In de meest extreme gevallen kan dit zorgen voor een volledige wipe van je chara
 Momenteel is het niet toegestaan om meer dan één huis per burger of per groep in bezit te hebben.<br>
 ^ Heb jij dit wel? Dan loop jij het risico om je huis te verliezen.<br>
 <br>
-Iedere 15e van de maand zal de belasting automatisch geincasseerd worden vanuit de ledger van je huis.<br>
+Iedere 15e van de maand zal de belasting automatisch geïncasseerd worden vanuit de ledger van je huis.<br>
 Hou rekening met de prijs van de belasting die je maandelijks moet betalen.<br>
 <br>
 Ben jij je huis kwijt geraakt hier door?
@@ -300,10 +301,15 @@ De volgende banen vallen onder een whitelisted job:
   -   Paardenstable<br>
   -   Gunsmith<br>
   -   Trein<br>
-
-Dit geldt ook voor alle tussen rangen.<br>
 <br></br>
-  Let op: Alle jobs die hier niet vermeld staan, zijn geen whitelisted jobs (Boerderij, Saloon, Ranch etc.)<br>
+
+## Whitelisted Job Informatie
+Voor whitelisted jobs is het <b>niet</b> toegestaan om samen te werken met de onderwereld.<br>
+Dit betekent ook dat jij <b>geen</b> deel mag uitmaken van een criminele organisatie/groep.<br>
+Ook is het ten strengste verboden om je bezig te houden met enige criminele zaken, denk aan het planten/verkopen van illegale planten & goederen.<br>
+<br>
+^ Dit wordt bestraft met een straf van de 1e CAT of hoger. (afhankelijk van de ernst van het gepleegde feit)
+<br></br>
 
 ## ERP
 Het uitvoeren van een Erotische Roleplay is niet toegestaan.
