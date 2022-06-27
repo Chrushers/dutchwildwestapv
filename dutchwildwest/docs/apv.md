@@ -301,9 +301,7 @@ De volgende banen vallen onder een whitelisted job:
   -   Paardenstable<br>
   -   Gunsmith<br>
   -   Trein<br>
-<br></br>
-
-## Whitelisted Job Informatie
+<br>
 Voor whitelisted jobs is het <b>niet</b> toegestaan om samen te werken met de onderwereld.<br>
 Dit betekent ook dat jij <b>geen</b> deel mag uitmaken van een criminele organisatie/groep.<br>
 Ook is het ten strengste verboden om je bezig te houden met enige criminele zaken, denk aan het planten/verkopen van illegale planten & goederen.<br>
