@@ -1,6 +1,6 @@
 # Belastingen binnen Dutch Wild West
 
-Huizen belasting
+<font size="5">Huizen belasting
 
 Dutch Wild West zal de belasting innen iedere 15e van de maand om 06:00 van de ledger van jouw huis.
 Dit betekent dat als er onvoldoende geld in de ledger ligt van jouw huis, dan zal Dutch Wild West beslag leggen op jouw huis & inhoud van jouw huis.
