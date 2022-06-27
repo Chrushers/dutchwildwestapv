@@ -283,8 +283,7 @@ Om van job te kunnen switchen zul jij drie kalenderdagen moeten wachten.
 <br></br>
 Let op: Job Hop geldt alleen voor deputies, doktoren & justitie.
 <br></br>
-Als wij kunnen bevestigen dat jij je niet aan deze regel houdt, dan zul drie extra dagen moeten wachten.
-Bij herhaaldelijk overtreden van deze regel kan dit leiden tot een CAT. 1 of 2 straf.
+Als wij kunnen bevestigen dat jij je niet aan deze regel houdt, dan zul jij een straf ontvangen van de 5e CAT.
 <br>
 
 ## Whitelisted Jobs
