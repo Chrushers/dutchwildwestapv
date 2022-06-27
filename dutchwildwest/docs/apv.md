@@ -277,12 +277,6 @@ In de meest extreme gevallen kan dit zorgen voor een volledige wipe van je chara
 Momenteel is het niet toegestaan om meer dan één huis per burger of per groep in bezit te hebben.<br>
 ^ Heb jij dit wel? Dan loop jij het risico om je huis te verliezen.<br>
 <br>
-Iedere 15e van de maand zal de belasting automatisch geïncasseerd worden vanuit de ledger van je huis.<br>
-Hou rekening met de prijs van de belasting die je maandelijks moet betalen.<br>
-<br>
-Ben jij je huis kwijt geraakt hier door?
-Dan kunnen wij helaas geen refund toekennen.
-<br>
 
 ## Job Hop
 Om van job te kunnen switchen zul jij drie kalenderdagen moeten wachten.
